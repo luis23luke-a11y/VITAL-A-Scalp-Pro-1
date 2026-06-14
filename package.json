@@ -1,0 +1,16 @@
+{
+  "name": "vital-a-scalp-pro-1",
+  "version": "1.0.0",
+  "description": "Vitaléa Scalp Pro - Static Landing Page",
+  "type": "module",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build required'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
